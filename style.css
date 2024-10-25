@@ -13,6 +13,12 @@ body{
 
 }
 
+header{
+  background-color: var(--preto);
+  display: flex;
+  justify-content: space-around;
+}
+
 footer{
   background-color: var(--preto);
   position: fixed;
