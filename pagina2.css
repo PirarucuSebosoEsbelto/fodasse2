@@ -10,7 +10,6 @@
 body{
   background-color: var(--fundo);
   margin: 0;
-
 }
 
 header{
@@ -38,4 +37,11 @@ footer{
     content: grid;
     gap: 3rem;
     padding: 4rem;
+}
+
+.cartao{
+    background-color: var(--cartao-frente);
+    padding: 40px;
+    border: 1px solid var(--destaque);
+    box-shadow: 2px 2px 2px var(--preto);
 }
