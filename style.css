@@ -71,6 +71,7 @@ footer{
 .resposta-cartao{
   font-weight: 700;
   color: var(--destaque);
+  transform: rotateY(180deg);
 }
 
 .cartao:hover .conteudo-cartao{
